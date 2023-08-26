@@ -11,5 +11,16 @@
   font-size: 2;
   font-weight: 800;
   margin: 3px;
+  color: blue;
+  font-size: 50px;
 
+}
+
+.celebration {
+  display: 'none';
+}
+
+.lordicon {
+  width:250px;
+  height:250px;
 }
